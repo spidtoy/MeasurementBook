@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "625629629394",
+    "project_id": "measurement-book-e9ce5",
+    "storage_bucket": "measurement-book-e9ce5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:625629629394:android:de6f80d9080dea52fa160b",
+        "android_client_info": {
+          "package_name": "com.example.measurementbook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "625629629394-hmnnopv6a2itnpg1qr45infe3e47p27q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.measurementbook",
+            "certificate_hash": "032fecdcc2e69de5932b3c54171a92a8c347727c"
+          }
+        },
+        {
+          "client_id": "625629629394-ggq475jil6su9qah7fql6kq7gi717og1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUxbW57w9vSsSFr_v9fZATeIp5dqVdeGI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "625629629394-ggq475jil6su9qah7fql6kq7gi717og1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
